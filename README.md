@@ -1,5 +1,5 @@
 # AL-Result-Checker
-This is a simple python script for checking A/L Examination results for srilankan students
+This is a simple python script for checking A/L Examination results of srilankan students
 
 ## INSTALLATION [Termux] [Linux] :
 
